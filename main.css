@@ -11,10 +11,11 @@ full-page {
   padding: 5% 5%;
 }
 
-h1, p {
+body {
   text-align: center;
 }
 
 h1 {  
   text-transform: uppercase;
+  font-weight: 100;
 }
